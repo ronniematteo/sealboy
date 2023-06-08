@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+img{
+    width: 1000px;
+    border: 5px solid antiquewhite;
+}
+h1{
+    color: antiquewhite;
+}
+p{
+    color: antiquewhite;
+}
+div{
+    text-align: center;
+    margin-top: 100px;
+    font-family: Libre Bakersville ;
+}
